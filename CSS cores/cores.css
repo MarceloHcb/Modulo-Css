@@ -1,0 +1,21 @@
+
+h2#a
+ {
+    color: red;
+}
+h2#b{
+    color: rgb(200,100,180,255);
+
+}
+h2#c{
+    color: rgba(200,100,180,0.80);
+
+}
+h2#d{
+    /* hexadecimal */
+    color: #aaaaaa;
+
+}
+h1{
+    color:#dddddd;
+}

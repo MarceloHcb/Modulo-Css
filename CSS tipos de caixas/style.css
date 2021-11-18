@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+h1{
+    /* display: inline;  << ocupam sempre a mesma linha */
+    margin:20px;
+    padding:20px;
+    background-color: #b2b2;
+
+}
+p{
+    
+    display: block;
+    margin:20px;
+    padding:20px;
+    background-color: burlywood;
+
+}
+span{
+    color:blueviolet;
+}

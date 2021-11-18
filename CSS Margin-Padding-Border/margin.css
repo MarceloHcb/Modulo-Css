@@ -1,0 +1,43 @@
+p{
+    margin:30px 20px 40px 20px;
+    color:darkblue;
+    background-color: burlywood;
+    padding: 30px;
+    border: solid 8px;
+    border-radius: 8px;
+    border-style: double;
+    border-top-color: darkcyan;
+
+    
+    
+
+}
+h1{
+    margin-left: 30px ;
+    background-color: #f6f6;
+    color:darkblue;
+    padding: 30px;
+    border-radius: 8px;
+}
+body{
+    background-color:cornflowerblue;
+}
+h3{
+    color:darkblue;
+    margin:30px;
+    padding:20px;
+    background-color: burlywood;
+    font-weight: 100;
+    text-align: justify;
+    border-radius: 10px;
+
+
+    
+
+    border-style: solid;
+    border-width: 20px;
+    border-color: darkgreen;
+    /* é o mesmo que  */
+    border:20px solid darkgreen;
+
+}

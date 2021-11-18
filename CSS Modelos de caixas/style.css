@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+p{
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
+    border: solid 4px gray;
+    border-radius: 7px;
+}
+h1{
+    color:gray;
+    text-align: center;
+}

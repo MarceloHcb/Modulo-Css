@@ -1,0 +1,14 @@
+#descricao{
+    background-color: goldenrod;
+}
+#descricao-pc{
+    background-color: gray;
+}
+.descricao{
+    background-color: greenyellow;
+    color:rgb(27, 54, 187);
+    border: grey solid 7px;
+}
+.empromocao{
+    color:red;
+}
